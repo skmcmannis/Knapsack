@@ -12,7 +12,11 @@ Input file is organized as follows:
 First line: number of test cases in the file
 
 Next line: number of item value/weight pairs to follow in this test case
+
 Next lines: items, represented as pairs of integers 'value' and 'weight', respectively
+
 Next line: number of people (knapsacks) to follow in this test case
+
 Next lines: the capacity of each person (knapsack)
+
 ...repeated for each test case
