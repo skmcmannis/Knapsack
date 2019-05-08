@@ -50,8 +50,8 @@ famMem = 1
 #Boolean used to write family contributions to file
 flag = 0
 
-#Open import file 'shopping.txt'
-with open("shopping.txt", "r") as importFile:
+#Open import file 'sampleInput.txt'
+with open("sampleInput.txt", "r") as importFile:
 
     #Set number of tests included in input file
     tests = list(islice(importFile, 1))
